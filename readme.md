@@ -4,7 +4,8 @@
 
 this Demo generates pdf file from an html table view, here is how to run this demo locally
 
-- git clone url
+- git clone https://github.com/letscodetz/generate-pdf-demo.git
+- cd generate-pdf-demo
 - composer install
 - create .env and setup database connection(database name, database user and password)
 - php artisan migrate (this will generate required database tables)
